@@ -178,9 +178,11 @@ iii) IR Sensor Always Detecting:
 
 9.Demo: 
 
-All the images are attached in image folder.
+**All the images are attached in image folder.**
 
-10.Author: Tanishq Pandey
+# Author: 
+
+**Tanishq Pandey**
 
 # Contribute:
 
